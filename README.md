@@ -5,7 +5,7 @@ This project is a simple backend application that helps users to summarize the g
 
 ## Installation
 Steps to install and setup the project
-1. Clone the repository: ''
+1. Clone the repository: "git clone https://github.com/klShashank/Text-Analytics-Application.git"
 2. Navigate to the directory: 
 3. Setup the virtual environment: python3 -m venv venv
 4. Install the dependencies: pip3 install -r requirements.txt
