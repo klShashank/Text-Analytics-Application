@@ -14,3 +14,13 @@ Steps to install and setup the project
 1. Run the application: python app.py
 2. Using postman/api testing platform, pass the request to the required api
 
+## Contributing
+Guidelines for contributing to the project. Example:
+1) Fork the repository
+2) Create a new branch: `git checkout -b feature-name`
+3) Commit your changes: `git commit -m 'Add feature-name'`
+4) Push to the branch: `git push origin feature-name`
+5) Create a pull request
+
+## Contact
+Shashank KL - [klshashank36@gmail.com](mailto:klshashank36@gmail.com) - [LinkedIn](https://www.linkedin.com/in/shashank-kl-a6179713b/)
